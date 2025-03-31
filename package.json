@@ -5,7 +5,7 @@
   "version": "2.0.0",
   "author": "zoomkoding <zoomkoding@gmail.com>",
   "dependencies": {
-    "@mui/icons-material": "^5.1.0",
+    "@mui/icons-material": "^5.16.14",
     "@mui/material": "^5.1.0",
     "gatsby": "^5.12.6",
     "gatsby-plugin-advanced-sitemap": "^2.0.0",
